@@ -23,29 +23,29 @@ Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um d
 ~~Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:~~
 
 <ol>
-<li>Oberflächenausbildung des Werkstücks
-	<ul type=square>
-		<li> Werkstückqualität (Maß, Form, Lage, Rauheit, Randzoneneigenschaft) </li>
-	</ul>
-  </li><br/>   
-  <li>Zerspankraft
+<li>Zerspankraft
     	<ul type=square>
 		<li> Auslegung von WZM, Spannmittel u. Zerspanungsparametern </li>
 		<li> Aussage zu erzielbaren Genauigkeiten, Verformungen sowie der Zerspanbarkeit von Werkstoffen </li>
 	</ul>
   </li><br/>
-  <li>Verschleiß des Werkzeugs
+<li>Verschleiß des Werkzeugs
     	<ul type=square>
 		 <li> Wirtschaftlichkeit des Prozesses </li>
 	</ul>
   </li><br/>
-  <li>Spanform
+<li>Oberflächenausbildung des Werkstücks
 	<ul type=square>
-		<li> WZ-Konstruktion u. Arbeitsraumgestaltung in WZM </li>
+		<li> Werkstückqualität (Maß, Form, Lage, Rauheit, Randzoneneigenschaft) </li>
+	</ul>
+  </li><br/>   
+<li>Spanform
+	<ul type=square>
+		<li> WZ-Konstruktion und Arbeitsraumgestaltung in WZM </li>
 		<li> Sicherer, ungestörter Prozessablauf </li>
 	</ul>
   </li><br/>
-  <li>Zeitspanvolumen / Materialabtrag
+<li>Zeitspanvolumen / Materialabtrag
 	<ul type=square>
 		<li> Produktivität, Wirtschaftlichkeit </li>
 	</ul>
@@ -55,16 +55,16 @@ Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um d
 
 ## **Systembetrachtung Drehen**
 
-1. [Der Zerspanprozess als System](#10)
-1. [System WSWW+H](#11)
-1. [Prozessketten](#12)
-1. [Werkzeugmaschine](#13)
-1. [Spanmmittel Werkstückspannung](#14)
-1. [Werkzeugaufnahmen](#15)
-1. [Werkzeuge und Wendeschneidplatten](#16)
-1. [Schnittwerte](#17)
-1. [Schneidstoffe](#18)
-1. [Kühlschmierung](#19)
+1. [Der Zerspanprozess als System](#4)
+1. [System WSWW+H](#5)
+1. [Prozessketten](#6)
+1. [Werkzeugmaschine](#7)
+1. [Spanmmittel Werkstückspannung](#8)
+1. [Werkzeugaufnahmen](#9)
+1. [Werkzeuge und Wendeschneidplatten](#10)
+1. [Schnittwerte](#11)
+1. [Schneidstoffe](#12)
+1. [Kühlschmierung](#13)
 
 
 ### Der Zerspanprozess als System
@@ -95,8 +95,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 _**Tabelle:** Beispiel einer ganzheitlichen Systembetrachtung WSWW+H am Beispiel Drehen (Quelle: DMG Mori, Neidlein, Sandvik)_
 
 | Maschine     | Werkzeug    | Spannmittel | Werkstück | Hilfsstoffe |
-| :------------- | :------------- | :------------- | :------------- | :------------- |
-| CNC Drehmaschine, Schrägbett | Polygon-Werkzeugaufnahme | Werkstückspannung       | Getriebewelle       | Kühlschmierstoff |
+| :----------- | :---------- | :---------- | :-------- | :---------- |
+| CNC Drehmaschine, Schrägbett | Polygon- Werkzeugaufnahme | Werkstückspannung       | Getriebewelle       | Kühlschmierstoff |
 | ![image](images/CTX-alpha-300.png)<!--
 style = "width: 100%; "
 --> | ![image](images/Capto-Werkzeug-Aufnahme.png)<!--
@@ -105,7 +105,7 @@ style = "width: 100%; "
 style = "width: 100%; "
 --> |      |      |
 | maximale Drehzahl: 6000 U/min | Wendeschneidplatte: CNMG 120408 PM | Werkstück: Spannung zwischen Spitzen | Werkstoff: 42CrMo4 | Emulsion |
-| Antriebsleistung: 15 kW | Schneidstoff: HC P20 |      | Rohteil: geschmiedet | Minimalmengen-kühlschmierung: 20 ml/h|
+| Antriebsleistung: 15 kW | Schneidstoff: HC P20 |      | Rohteil: geschmiedet | Minimalmengen- kühlschmierung: 20 ml/h|
 | max. Drehdurchmesser: 200 mm | CVD Beschichtung |      | Aufmaß Rohteil: 3 mm | Additive, KSS-Filterung, ... |
 
 
@@ -320,11 +320,6 @@ style="font-size: 14px; width: 100%; "
 -->
 ***Abbildung:*** *Werkstückspannung auf Planscheiben (Quelle: infometall.de)*
 
-<!--
-style="color: red; width: 100%; "
--->
-Neue Bilder z.B. aus Datei: Literatur/Konventionelle_Fertigung_Drehen-SWISSMechanic?
-
 ***
 
 
@@ -348,8 +343,12 @@ zum anderen durch die Einstellung unterschiedlicher Prozessparameter.
 Der Vorschub **f** und der Schneideckenradius $ \bold {r_\varepsilon} $ der jeweiligen Wendeschneidplatte haben einen Einfluss auf
 die Oberflächenrautiefe und bringen Folgen für den Prozess mit sich:
 
+
+<!--
+style="width: 100%; "
+-->
 |Einfluss|Oberflächenrautiefe|Prozess|
-|---|:---:|:---:|
+|---|:---|:---|
 |kleiner Vorschub **f**|reduziert|verlängert die Fertigungszeit|
 |großer Eckenradius $\bold {r_\varepsilon} $|reduziert|steigert die Gefahr von Vibrationen|
 
@@ -371,47 +370,43 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 
 ###Berechnung der theoretischen Rauheit
 
-|![image](images/Theoretische_Rauheit.png)<!--
-style = "width: 100%; "
--->|![image](images/Theoretische_Rauheit_6.png)<!--
-style = "width: 100%; "
--->|
+<!--
+style="font-size: 18px; "
+-->
+~~Allgemeiner Lösungsansatz:~~
 
-|Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
-|---|---|
-|![image](images/Theoretische_Rauheit_3.png)<!--
+$ r_\varepsilon $ > f (ohne Nebenschneideneinfluss)
+
+<br/>
+$\boxed{Rz_{theor}\approx\frac{f^2}{8\cdot r_\varepsilon} \space \cdot 1000 \implies\space f\approx\sqrt{\frac{8\cdot Rz_{theor}\cdot r_\varepsilon}{1000}}}$
+
+---
+<br/>
+
+<!--
+style="font-size: 18px; "
+-->
+~~Herleitung der Formel~~
+
+|![image](images/Theor_Rauh-WST_WSP.png)<!--
 style = "width: 100%; "
--->|![image](images/Theoretische_Rauheit_4_2.png)<!--
+--> | ![image](images/Theor_Rauh-Zeichng.png)<!--
+style = "width: 100%; "
+--> |
+|---:|:---|
+| $Vorschub$ <br/> $theoretische \space Rauheit$ <br/> $Schneideckenradius$ |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}} \ \quad [µm]$ <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
+| | |
+|Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
+|![image](images/Theor_Rauh-Pyth-2.png)<!--
+style = "width: 100%; "
+-->|![image](images/Theor_Rauh-Formel.png)<!--
 style = "width: 100%; "
 -->|
 
 <!--
 style="font-size: 14px; width: 660px; margin: 0.25em 0;"
 -->
-***Abbildung:*** *Herleitung der Berechnung der theoretischen Rauheit*
-
-<br/>
-<br/>
-**--> ~~Allgemeiner Lösungsansatz:~~**
-
-$r_\varepsilon>f$ (ohne Nebenschneideneinfluss)
-
-<!--
-style="color: red; width: 660px; margin: 0.25em 0;"
--->
-Prüfen, warum das `>` Zeichen in der $\KaTeX$ -Formel nicht funktioniert! Eigentliche Formel heißt: r_epsilon > f
-
-$\boxed{Rz_{theor}\approx\frac{f^2}{8\cdot r_\varepsilon} \space \cdot 1000 \implies\space f\approx\sqrt{\frac{8\cdot Rz_{theor}\cdot r_\varepsilon}{1000}}}$
-
-<br/>
-<br/>
-
-<!--
-style="font-size: 14px; color: red; width: 660px; margin: 0.25em 0;"
--->
-* neue Zeichnung verwenden oder Alte?
-* Neue Zeichnung noch etwas verändern? Andere Maße des Bildes und Schrift größer!
-* auch als **Erklärvideo** (angefertigte, geraffte Zeichung) -> nähere Erläuterungen des Vorgehens bei der Berechnung werden gesprochen!
+***Abbildung:*** *Herleitung der Formel zur Berechnung der theoretischen Rauheit*
 
 
 ##**Zerspankraftmodell und Zerspankraftmessung**
@@ -426,7 +421,7 @@ Die **Zerspankräfte** sind von Bedeutung für:
 * die Analyse der Zerspanvorgänge (z.B. Verformungen von WSt und WZ)
 * die Beurteilung der Zerspanbarkeit von Werkstoffen
 
-![image](images/Zerspankraftkomponenten-FT.png)<!--
+![image](images/Zerspankraftkomponenten.png)<!--
 style = "width: 100%; "
 -->
 
@@ -435,10 +430,6 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 ***Abbildung:*** *Zerspankraftkomponenten*
 
-<!--
-style="color: red; width: 100%; "
--->
-Austauschen gegen die farbige Abbildung?
 
 ###Allgemeiner Lösungsansatz des Zerspankraft-Modells
 
@@ -538,7 +529,7 @@ Die spezifische Schnittkraft $\ k_{c1.1} $ gibt die auf b = 1 mm und h = 1 mm be
 <!--
  style = "margin: 1em 5em;"
 -->
-| ![image](images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 75%;" --> | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| ![image](images/spez-Schnittkraft-Beispiel.png)<!--
+| ![image](images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 100%;" --> | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| ![image](images/spez-Schnittkraft-Beispiel.png)<!--
 style = "width: 100%;" --> <br/><br/> ***Abbildung:*** *Beispiel einer empirisch ermittelten spezifischen Schnittkraft $\ k_c $ in Abhängigkeit von der Spanungsdicke h* |
 
 <!--
@@ -834,7 +825,7 @@ Dieses Zerspankraft-Modell, diese allgemeinen Grundgleichungen gelten für Verfa
 Das Verhältnis der drei Zerspankraftkomponeten kann überschläglich wie folgt angenommen werden. Dieser Orientierungswert gilt für einen **Einstellwinkel** $\bold {k_r=45\degree}$.
 
 <!--
-style="font-size: 16px; margin: 0em 5em;"
+style="font-size: 16px; margin: 0em 5em; border: 1px; "
 -->
 $\boxed{\bold {F_c:F_f:F_p=5:2:1}}$
 
@@ -1086,7 +1077,7 @@ und somit das Standvermögen des Wirkpaares Werkstoff-Schneidstoff zu erhöhen?
   * Minimieren der Fertigungszeit (zeitoptimale Fertigung)
 
 ![image](images/Verschleiss-Standzeit_1.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 -->
 
 <!--
@@ -1095,7 +1086,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *Fertigungskosten in Abhängigkeit von $v_c$*
 
 ![image](images/Verschleiss-Standzeit_2.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 -->
 
 <!--
@@ -1104,11 +1095,6 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *zeit- und kostenoptimale Standzeit*
 
 ###Werkzeugverschleiß
-
-<!--
-style="font-size: 16px; color: red; width: 100%; margin: 0.25em 0;"
--->
-Noch ein paar Worte mehr zu Werkzeugen und Werkstoffen und deren Verschleiß?
 
 Der Werkzeug-Verschleiß hängt wesentlich von den ~~Spanungsparametern~~, der ~~Paarung Werkstoff/Schneidstoff~~
 sowie dem ~~zeitlichen Verlauf~~ ab. Fünf hauptsächliche **Verschleißmechanismen** treten beim Spanen gemeinsam
@@ -1207,11 +1193,6 @@ Werkzeuggeometrie
 
 Der **Eckenradius** beeinflusst neben der Oberflächengüte und Schneidenstabilität auch den Spanbruch.
 
-<!--
-style="font-size: 16px; color: red; width: 100%; margin: 0.25em 1;"
--->
-Evtl. nähere Erläuterungen zu den Radien und deren Folgen?
-
 ![image](images/Einfluss_Eckenradius.png)<!--
 style = "width: 50%; margin: 1em 2em; "
 -->
@@ -1293,12 +1274,6 @@ style = "width: 75%; "
 <li>Bildung vorgebener Gleitsysteme durch starke Inhomogenitäten</li></ul>|
 
 
-<!--
-style="font-size: 14px; color: red; width: 100%; margin: 0.25em 1;"
--->
-(Denkena, K 2, S.21 ff, hier noch Details zu **Verformungszonen**? **Erklärvideo**?)
-
-
 $ ^*$**Aufbauschneidenbildung**
 
 Eine Besonderheit bei der Fließspanbildung ist die Aufbauschneide. Sie ist eine Ansammlung kleinster Werkstoffteilchen des bearbeiteten Materials, die sich durch Pressschweißung und Klebeerscheinungen aufbaut. Dabei lagern sich Werkstoffpartikel auf der Spanfläche und an der Schneidkante ab. Diese Partikel sind so stark verformt, kaltverfestigt und deutlich härter als der Grundwerkstoff, sodass sie die Funktion der Schneide übernehmen können. Wird die Aufbauschneide instabil, gleitet sie ab und wird in die Werkstückrandschicht eingedrückt. Die Aufbauschneidenbildung ist i. d. R. unerwünscht.
@@ -1338,16 +1313,9 @@ style = "font-size: 14px; width: 100%; margin: 1em 2em; "
 
 ###Spanformen
 
-> Die ~~Spanform~~ ist die Beschreibung der Späne nach Form und Größe und ist das Ergebnis der Spanbildung.
+**Die ~~Spanform~~ ist die Beschreibung der Späne nach Form und Größe und ist das Ergebnis der Spanbildung.**
 
-Gegenüber den anderen drei Kriterien zur Bewertung des Zerspanprozesses (--> s. Theorie) kann das Kriterium
-der Spanformung bei kontinuierlichen Prozessen (Drehen, Bohren) aufgrund der Wahrung der Prozesssicherheit
-vorrangig sein.
-
-<!--
-style="font-size: 14px; color: red; width: 100%; margin: 0.25em 1;"
--->
-(Denkena, nach STA90)
+Weil beim Spanen mit ununterbrochenem Schnitt (Drehen, Bohren) der Spanabtrag und die Spanformung kontinuierlich erfolgen, hat dieses Kriterium (-> s. [Bewertung des Zerspanprozesses](#2)) maßgeblichen Einfluss auf die Prozesssicherheit und Werkstückqualität. (Denkena, nach STA90)
 
 Die Einteilung erfolgt nach folgenden Kriterien:
 
@@ -1358,20 +1326,22 @@ Die Einteilung erfolgt nach folgenden Kriterien:
   * Spanraumzahl R
   * günstig: R = 5 ... 25
 
-<!--
-style="font-size: 18px; margin: 0.25em 0;"
--->
-> $\bold {R=\frac{Q_{SP}}{Q_W}}$
+<br/>
+
+$\boxed {R=\frac{Q_{SP}}{Q_W}}$
+
 mit
 
 <!--
 style="font-size: 16px; width: 660px; margin: 0.25em 1;"
 -->
-$\quad R\quad Spanraumzahl\quad [-]$
+$\quad \bold R\qquad Spanraumzahl\quad [-]$
 
-$\quad Q_{SP}\quad Spänevolumen\quad [mm^3 / min]$
+$\quad \bold {Q_{SP}}\quad Spänevolumen\quad [mm^3 / min]$
 
-$\quad Q_W\quad WSt-Volumen\quad [mm^3 / min]$
+$\quad \bold {Q_W}\quad WSt-Volumen\quad [mm^3 / min]$
+
+<br/>
 
 ![image](images/Spanformen.png)<!--
 style = "width: 100%; "
@@ -1380,28 +1350,15 @@ style = "width: 100%; "
 <!--
 style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
-***Abbildung:*** *Spanformen*
-
-<!--
-style="font-size: 14px; color: red; width: 100%; margin: 0.25em 1;"
--->
-Abbildung 3.1 aus Denkena, S.38 belassen oder aus V FT?
+***Abbildung:*** *Spanformen (Denkena)*
 
 
 #Literatur
 
-$[DEN11]$
+**Denkena, B. & Tönshoff, H. K.**: Spanen, Grundlagen, VDI-Buch, Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2011
 
-Denkena, B. & Tönshoff, H. K.: Spanen, Grundlagen, VDI-Buch, Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2011
+**Europa Lehrmittel**: Metalltechnik, Zerspantechnik Fachbildung, Verlag Europa Lehrmittel, Nourney, Vollmer GmbH & Co. KG, Haan-Gruiten, 2015
 
-$[EUR15]$
+**Spur, G. et al.**: Handbuch Spanen, Edition: Handbuch der Fertigungstechnik, Carl-Hanser-Verlag, München, 2014
 
-Europa Lehrmittel: Metalltechnik, Zerspantechnik Fachbildung, Verlag Europa Lehrmittel, Nourney, Vollmer GmbH & Co. KG, Haan-Gruiten, 2015
-
-$[SPU14]$
-
-Spur, G. et al.: Handbuch Spanen, Edition: Handbuch der Fertigungstechnik, Carl-Hanser-Verlag, München, 2014
-
-$[TÖN05]$
-
-Tönshoff, H.K.; Hollmann, F.: Hochgeschwindigkeitsspanen. Wiley-VCH-Verlag, 2005
+**Tönshoff, H.K.; Hollmann, F.**: Hochgeschwindigkeitsspanen. Wiley-VCH-Verlag, 2005
