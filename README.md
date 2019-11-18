@@ -16,16 +16,16 @@ narrator: DE FEMALE
 
 Auf den folgenden Seiten finden Sie theoretische Grundlagen, die Sie in der Vorbereitung und Durchführung des Praktikums unterstützen sollen.
 
-Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um das Praktikum auseinanderzusetzen und Ihren Wissensstand zu prüfen.
+(Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um das Praktikum auseinanderzusetzen und Ihren Wissensstand zu überprüfen.)
 
 # Bewertung des Zerspanprozesses
 
-~~Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:~~
+Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:
 
 <ol>
 <li>Zerspankraft
     	<ul type=square>
-		<li> Auslegung von WZM, Spannmittel u. Zerspanungsparametern </li>
+		<li> Auslegung von WZM, Spannmittel und Zerspanungsparametern </li>
 		<li> Aussage zu erzielbaren Genauigkeiten, Verformungen sowie der Zerspanbarkeit von Werkstoffen </li>
 	</ul>
   </li><br/>
@@ -56,15 +56,19 @@ Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um d
 ## **Systembetrachtung Drehen**
 
 1. [Der Zerspanprozess als System](#4)
-1. [System WSWW+H](#5)
-1. [Prozessketten](#6)
-1. [Werkzeugmaschine](#7)
-1. [Spanmmittel Werkstückspannung](#8)
-1. [Werkzeugaufnahmen](#9)
-1. [Werkzeuge und Wendeschneidplatten](#10)
-1. [Schnittwerte](#11)
-1. [Schneidstoffe](#12)
-1. [Kühlschmierung](#13)
+2. [System WSWW+H](#5)
+3. [Prozessketten](#6)
+4. [Werkzeugmaschine](#7)
+5. [Spanmmittel Werkstückspannung](#8)
+
+...
+
+*6. [Werkzeugaufnahmen](#9)
+7. [Werkzeuge und Wendeschneidplatten](#10)
+8. [Schnittwerte](#11)
+9. [Schneidstoffe](#12)
+10. [Kühlschmierung](#13)
+
 
 
 ### Der Zerspanprozess als System
@@ -92,8 +96,11 @@ _**Abbildung:** Der Zerspanprozess als System_
 <!--
 style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
-_**Tabelle:** Beispiel einer ganzheitlichen Systembetrachtung WSWW+H am Beispiel Drehen (Quelle: DMG Mori, Neidlein, Sandvik)_
+_**Tabelle:** Beispiel einer ganzheitlichen Systembetrachtung **WSWW+H** am Beispiel Drehen (Quelle: DMG Mori, Neidlein, Sandvik)_
 
+<!--
+style="font-size: 14px; "
+-->
 | Maschine     | Werkzeug    | Spannmittel | Werkstück | Hilfsstoffe |
 | :----------- | :---------- | :---------- | :-------- | :---------- |
 | CNC Drehmaschine, Schrägbett | Polygon- Werkzeugaufnahme | Werkstückspannung       | Getriebewelle       | Kühlschmierstoff |
@@ -123,6 +130,9 @@ style="font-size: 14px; width: 100%; "
 -->
 _**Tabelle:** Denken in Prozessketten (Quellen: dedinski.de, wikimedia)_
 
+<!--
+style="font-size: 14px; "
+-->
 |Ausgangsprozess|Hilfsoperationen|Endbearbeitung|
 |:---|:---|:---|
 |z.B.: Gießen, Schmieden, Halbzeugherstellung|z.B.: Zerspanen (Drehen, Bohren, Fräsen, Schleifen), Fügen (Reibschweißen), Beladen, Messen ...|z.B.: Präzisionsdrehen und -schleifen, Honen (Finishbearbeitung), Festwalzen/Glattwalzen, Beschichten …|
@@ -179,6 +189,9 @@ style="font-size: 14px; width: 100%; "
 -->
 ***Tabelle:*** *Einflussgrößen am Teilsystem „Werkzeugmaschine“*
 
+<!--
+style="font-size: 14px; "
+-->
 |Technisch|Arbeits- und Wiederholgenauigkeit|Sozial-ökologisch-ökonomisch|
 |:---|:---|:---|
 |<ul><li>Spindel und Vorschubeinheit: Leistung, Moment, Drehzahl, Geschwindigkeit, Beschleunigungs- und Bremsverhalten etc.</li><br/>
@@ -323,19 +336,15 @@ style="font-size: 14px; width: 100%; "
 ***
 
 
-### Werkzeugaufnahmen
-
-### Werkzeuge Wendeschneidplatten
-
-### Schnittwerte
-
-### Schneidstoffe
-
-### Kühlschmierung
+*### Werkzeugaufnahmen
+*### Werkzeuge Wendeschneidplatten
+*### Schnittwerte
+*### Schneidstoffe
+*### Kühlschmierung
 
 
 
-##**Oberflächenmodell**
+## **Oberflächenmodell**
 
 Die Entstehung einer neuen Oberfläche durch den Zerspanprozess variiert zum einen durch die Werkzeuggeometrie und
 zum anderen durch die Einstellung unterschiedlicher Prozessparameter.
@@ -345,7 +354,7 @@ die Oberflächenrautiefe und bringen Folgen für den Prozess mit sich:
 
 
 <!--
-style="width: 100%; "
+style="font-size: 14px; "
 -->
 |Einfluss|Oberflächenrautiefe|Prozess|
 |---|:---|:---|
@@ -394,7 +403,7 @@ style = "width: 100%; "
 style = "width: 100%; "
 --> |
 |---:|:---|
-| $Vorschub$ <br/> $theoretische \space Rauheit$ <br/> $Schneideckenradius$ |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}} \ \quad [µm]$ <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
+| Vorschub <br/> theoretische Rauheit <br/> Schneideckenradius |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}} \ \quad [µm]$ <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
 | | |
 |Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
 |![image](images/Theor_Rauh-Pyth-2.png)<!--
@@ -834,42 +843,46 @@ $\boxed{\bold {F_c:F_f:F_p=5:2:1}}$
 
 ###Messtechnische Erfassung der Zerspankraftkomponenten
 
-**Grundlagen der piezoelektrischen Kraftmessung** * (Quelle: Denkena)*
+{{0-1}}
+***
+
+**Grundlagen der piezoelektrischen Kraftmessung** *(Quelle: Denkena)*
 
 * Die Aufnahme der Zerspankraftkomponenten wird heute meist mit piezoelektrischen Sensoren realisiert. Diese haben sich sowohl im Bereich Forschung und Entwicklung als auch in der Industrie etabliert.
 * Piezoelektrische Materialien wie bestimmte Kristalle z. B. Quarz $ SiO_2$ oder Keramiken erzeugen bei mechanischer Belastung als Folge der elastischen Verformung Ladungen.
 * Diese Ladungsdifferenzen können in geeigneten Verstärkern in Spannungssignale umgesetzt werden.
 * Als Sensoren dienen häufig dünne Quarzkristallscheiben, die je nach ihrer kristallographischen Orientierung schub- oder drucksensitiv sind.
-* Ein klassischer piezoelektrischer 3-Komponenten-Kraftaufnehmer ($ F_x, F_y, F_z$) ist aus zwei schubsensitiven Quarzkristallpaaren und einem dazwischenliegenden drucksensitiven Quarzkristallpaar aufgebaut.
+* Ein klassischer piezoelektrischer 3-Komponenten-Kraftaufnehmer ($F_x, F_y, F_z$) ist aus zwei schubsensitiven Quarzkristallpaaren und einem dazwischenliegenden drucksensitiven Quarzkristallpaar aufgebaut.
 * Die Quarzkristallscheiben sind als Paket verspannt und vorgespannt, um urch die Verspannung Schubkräfte und durch die Vorspannung Zugkräfte aufnehmen zu können.
 * Derartige Pakete sind kompakt, weisen eine hohe Steifigkeit auf und haben damit eine hohe Eigenfrequenz, was für dynamische Kraftmessungen in der Zerspanung wichtig ist.
 
 <br/>
 
-<!--
-style="font-size: 16px;"
--->
+***
+
+{{1-2}}
+***
+
+
 **Piezoelektrischer Sensor**
 
 * Quarzkristalle, Keramiken mit hoher Steifigkeit und hoher Eigenfrequenz für dynamische Kraftmessung
 * Empfindlichkeit des Sensors - elektrische Ladung abhängig von der Krafteinwirkung
 
 <!--
-style="margin: 0em 3em;"
+style="margin: 0em 2.5em;"
 -->
 zum Beispiel:
 <br/>
 
 <!--
-style="margin: 1em 4em;"
+style="margin: 0em 2.5em;"
 -->
 x,y-Richtung: $ \bold {8,0 \space \frac{pC}{N} \qquad \qquad} $ z-Richtung: $ \bold{4,0 \space \frac{pC}{N}} $
 
 
-
-
 ![image](images/Piezoelektrischer-Kraftaufnehmer.png)<!--
-style = "width: 50%; margin: 0em 2em "
+style = "width: 70%; margin: 0em 2.5em "
 -->
 
 <!--
@@ -877,13 +890,11 @@ style="font-size: 14px; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *Zerpankraftmessung mit piezoelektrischen Sensoren: Aufbau und Funktion (Quelle: Kistler)*
 
+***
 
-<br/>
-<br/>
+{{2-3}}
+***
 
-<!--
-style="font-size: 16px;"
--->
 **Dynamometer**
 
 * Zusammenschalten von vier 3-Komponenten-Kraftaufnehmern zu einem Dynamometer
@@ -921,7 +932,7 @@ $ kM_x, kM_y, kM_z $ - Korrekturfaktoren von einer durchgef+hrten Momentenkalibr
 
 
 ![image](images/Dynamometer-Kraft-Momentenmessung.png)<!--
-style = "width: 50%; margin: 0em 2em "
+style = "width: 70%; margin: 0em 2em "
 -->
 
 <!--
@@ -930,12 +941,11 @@ style="font-size: 14px; margin: 0.25em 2em;"
 ***Abbildung:*** *Dynamometer für die Zerspankraftmessung: 6-Komponenten-Kraft- und Momentenmessung bzw. 8-Komponenten-Kraftmessung  (Quelle: Kistler)*
 
 
-<br/>
-<br/>
+***
 
-<!--
-style="font-size: 16px;"
--->
+{{3-4}}
+***
+
 **Ladungsverstärker und Datenerfassungsgerät**
 
 * Wandlung der elektrischen Ladung in ein analoges Spannungssignal ± 10 V
@@ -994,13 +1004,11 @@ style="font-size: 14px; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *digitale Labor- und Industrie-Ladungsverstärker (Quelle: Kistler)*
 
-<br/>
-<br/>
+***
 
+{{4-5}}
+***
 
-<!--
-style="font-size: 16px;"
--->
 **Endgeräte, Datenauswertung und Datenverarbeitung**
 
 * PC mit Software für die Datenauswertung
@@ -1041,13 +1049,11 @@ style="font-size: 14px; margin: 0.25em 2em;"
 ***Abbildung:*** *Endgeräte der Zerspankraftmessung: PC mit Software, Mikrocontroller + Tablet, Smartphone, Mikrocontroller +Werkzeugmaschine*
 
 
-<br/>
-<br/>
+***
 
+{{5-6}}
+***
 
-<!--
-style="font-size: 16px;"
--->
 **Piezoelektrische Zerspankraftmessung im Einsatz**
 
 Drehwerkzeug mit Werkzeughalter und VDI-Aufnahme für CNC-Drehmaschinen
@@ -1061,6 +1067,7 @@ style="font-size: 14px; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *Zerpankraftmessung mit piezoelektrischen Sensoren: Anwendungsbeispiel Außendrehen auf einer CNC-Drehmaschine (Quelle: Kistler)*
 
+***
 
 ##**Verschleiß-Standzeit-Modell**
 
@@ -1101,10 +1108,10 @@ sowie dem ~~zeitlichen Verlauf~~ ab. Fünf hauptsächliche **Verschleißmechanis
 auf und wirken gleichzeitig:
 
 1. mechanischer Abrieb: Abrasion
-1. Diffusion
-1. Oxidation
-1. Plastische Verformung, Rissbildung
-1. Adhäsion
+2. Diffusion
+3. Oxidation
+4. Plastische Verformung, Rissbildung
+5. Adhäsion
 
 ![image](images/Verschleissursachen.png)<!--
 style = "width: 100%; "
@@ -1144,9 +1151,9 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 Folgende unterschiedliche Kriterien üben Einfluss auf die Spanform aus:
 
 1. Spanungsbedingungen
-1. Werkstoffeigenschaften
-1. Werkzeuggeometrie
-1. Herstellerempfehlungen
+2. Werkstoffeigenschaften
+3. Werkzeuggeometrie
+4. Herstellerempfehlungen
 
 **************************
 
@@ -1164,7 +1171,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 ***Abbildung:*** *Einfluss der Schnittbedingungen auf die Spanform, (Quelle: Denkena, nach DEG93)*
 
-(Erläuterung zu den Spanformklassen siehe *Theorie --> [Spanformen](#31), Abbildung: Spanformen*)
+(Erläuterung zu den Spanformklassen siehe *Theorie --> [Spanformen](#19), Abbildung: Spanformen*)
 
 **************************
 
@@ -1182,7 +1189,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 ***Abbildung:*** *Einfluss der Werkstoffeigenschaften auf die Spanform (Kohlenstoffstahl), (Quelle: Denkena)*
 
-(Erläuterung zu den Spanformklassen siehe *Theorie --> Der Span --> [Spanformen](#31), Abbildung: Spanformen*)
+(Erläuterung zu den Spanformklassen siehe *Theorie --> Der Span --> [Spanformen](#19), Abbildung: Spanformen*)
 
 **************************
 
