@@ -16,7 +16,7 @@ narrator: DE FEMALE
 
 Auf den folgenden Seiten finden Sie theoretische Grundlagen, die Sie in der Vorbereitung und Durchführung des Praktikums unterstützen sollen.
 
-(Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um das Praktikum auseinanderzusetzen und Ihren Wissensstand zu überprüfen.)
+Weiterhin hilft Ihnen die **Lernzielkontrolle**, sich mit der Thematik rund um das Praktikum auseinanderzusetzen und Ihren Wissensstand zu überprüfen.
 
 # Bewertung des Zerspanprozesses
 
@@ -74,13 +74,14 @@ Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:
 ### Der Zerspanprozess als System
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Der_Zerspanprozess_als_System-FT.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
 
 <!--
-style="font-size: 14px; width: 100%; margin: 0.25em 1;"
+style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 _**Abbildung:** Der Zerspanprozess als System_
+
 
 ### System WSWW+H
 
@@ -104,11 +105,11 @@ style="font-size: 14px; "
 | Maschine     | Werkzeug    | Spannmittel | Werkstück | Hilfsstoffe |
 | :----------- | :---------- | :---------- | :-------- | :---------- |
 | CNC Drehmaschine, Schrägbett | Polygon- Werkzeugaufnahme | Werkstückspannung       | Getriebewelle       | Kühlschmierstoff |
-| ![image](images/CTX-alpha-300.png)<!--
+| ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/CTX-alpha-300.png)<!--
 style = "width: 100%; "
---> | ![image](images/Capto-Werkzeug-Aufnahme.png)<!--
+--> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Capto-Werkzeug-Aufnahme.png)<!--
 style = "width: 100%; "
---> | ![image](images/Spannsystem-Drehen.png)<!--
+--> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spannsystem-Drehen.png)<!--
 style = "width: 100%; "
 --> |      |      |
 | maximale Drehzahl: 6000 U/min | Wendeschneidplatte: CNMG 120408 PM | Werkstück: Spannung zwischen Spitzen | Werkstoff: 42CrMo4 | Emulsion |
@@ -137,11 +138,11 @@ style="font-size: 14px; "
 |:---|:---|:---|
 |z.B.: Gießen, Schmieden, Halbzeugherstellung|z.B.: Zerspanen (Drehen, Bohren, Fräsen, Schleifen), Fügen (Reibschweißen), Beladen, Messen ...|z.B.: Präzisionsdrehen und -schleifen, Honen (Finishbearbeitung), Festwalzen/Glattwalzen, Beschichten …|
 |Rohteil|   |Fertigteil|
-|![image](images/Rohteil_Welle.png)<!--
+|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Rohteil_Welle.png)<!--
 style = "width: 100%; "
--->|![image](images/Pfeil_Prozesskette.png)<!--
+-->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Pfeil_Prozesskette.png)<!--
 style = "width: 100%; "
--->|![image](images/Fertigteil_Kurbelwelle.png)<!--
+-->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Fertigteil_Kurbelwelle.png)<!--
 style = "width: 100%; "
 -->|
 
@@ -160,12 +161,12 @@ style = "width: 100%; "
 
 <br/>
 
-![image](images/Denken-in-Prozessketten.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Denken-in-Prozessketten.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
-style="font-size: 14px; "
+style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 _**Abbildung:** Denken in Prozessketten: Produktionsprozess - Vom Rohteil zum Fertigteil_
 
@@ -209,8 +210,8 @@ style="font-size: 14px; "
 
 <br/>
 
-![image](images/DMG-ecoturn-450.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/DMG-ecoturn-450.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -249,8 +250,8 @@ Bei der Vielzahl von Drehmaschinen die auf dem Markt angeboten werden, kommt es 
 
 <br/>
 
-![image](images/Hainbuch-Spannmittel-Beispiele.png)<!--
-style = "width: 400px; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Hainbuch-Spannmittel-Beispiele.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -262,8 +263,8 @@ style="font-size: 14px; width: 100%; "
 
 **Spannmittel zur Werkstückspannung**
 
-![image](images/Spannmittel-Werkstueckspannung.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spannmittel-Werkstueckspannung.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -284,8 +285,8 @@ style="font-size: 14px; width: 100%; "
 
 <br/>
 
-![image](images/Dreibackenfutter.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Dreibackenfutter.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -301,8 +302,8 @@ style="font-size: 14px; width: 100%; "
 
 <br/>
 
-![image](images/handbetaetigtes-Dreibackenspannfutter.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/handbetaetigtes-Dreibackenspannfutter.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -324,8 +325,8 @@ style="font-size: 14px; width: 100%; "
 
 <br/>
 
-![image](images/Planscheibe.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Planscheibe.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -367,8 +368,8 @@ style="font-size: 14px; "
 <br/>
 <br/>
 <br/>
-![image](images/Vorschub_Eckenradius_Rautiefe.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Vorschub_Eckenradius_Rautiefe.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -397,18 +398,18 @@ style="font-size: 18px; "
 -->
 ~~Herleitung der Formel~~
 
-|![image](images/Theor_Rauh-WST_WSP.png)<!--
+|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-WSt_WSP.png)<!--
 style = "width: 100%; "
---> | ![image](images/Theor_Rauh-Zeichng.png)<!--
+--> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Zeichng.png)<!--
 style = "width: 100%; "
 --> |
 |---:|:---|
 | Vorschub <br/> theoretische Rauheit <br/> Schneideckenradius |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}} \ \quad [µm]$ <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
 | | |
 |Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
-|![image](images/Theor_Rauh-Pyth-2.png)<!--
+|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Pyth-2.png)<!--
 style = "width: 100%; "
--->|![image](images/Theor_Rauh-Formel.png)<!--
+-->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Formel.png)<!--
 style = "width: 100%; "
 -->|
 
@@ -430,8 +431,8 @@ Die **Zerspankräfte** sind von Bedeutung für:
 * die Analyse der Zerspanvorgänge (z.B. Verformungen von WSt und WZ)
 * die Beurteilung der Zerspanbarkeit von Werkstoffen
 
-![image](images/Zerspankraftkomponenten.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Zerspankraftkomponenten.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -490,7 +491,7 @@ $\ \qquad \quad h $ : Spanungsdicke in mm
 
 $\implies\boxed{F_i = k_i \cdot a_p \cdot f = k_i \cdot b \cdot h} $
 
-![image](images/Spanungsdicke-Spanungsbreite.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanungsdicke-Spanungsbreite.png)<!--
 style = "width: 75%; margin: 1em 5em;"
 -->
 
@@ -521,7 +522,7 @@ $\ \qquad \qquad \boxed{F_c = k_c \cdot a_p \cdot f = k_c \cdot b \cdot h} $
 
 * Untersuchungen haben gezeigt, dass $\ k_c $ kaum von der Spanungsbreite b, sondern fast ausschließlich von der Spanungsdicke h abhängt.
 
-![image](images/Einfluss-Spanungsdicke-spezifische-Schnittkraft.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss-Spanungsdicke-spezifische-Schnittkraft.png)<!--
 style = "width: 75%; margin: 0 5em;"
 -->
 
@@ -538,7 +539,7 @@ Die spezifische Schnittkraft $\ k_{c1.1} $ gibt die auf b = 1 mm und h = 1 mm be
 <!--
  style = "margin: 1em 5em;"
 -->
-| ![image](images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 100%;" --> | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| ![image](images/spez-Schnittkraft-Beispiel.png)<!--
+| ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 100%;" --> | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-Beispiel.png)<!--
 style = "width: 100%;" --> <br/><br/> ***Abbildung:*** *Beispiel einer empirisch ermittelten spezifischen Schnittkraft $\ k_c $ in Abhängigkeit von der Spanungsdicke h* |
 
 <!--
@@ -593,7 +594,7 @@ style= "margin: 1em 8em;"
 
 <br/>
 
-![image](images/Spezifische-Schnittkraft-weitere-Einfluesse.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spezifische-Schnittkraft-weitere-Einfluesse.png)<!--
 style = "width: 50%; margin: 0 5em;"
 -->
 
@@ -657,7 +658,7 @@ $\ \qquad \qquad K_\gamma = (1,09 - 0,09\cdot \frac{\gamma}{\gamma_0}) \quad mit
 $\ \qquad \qquad K_\gamma = (1,03 - 0,09\cdot \frac{\gamma}{\gamma_0}) \quad mit \space \gamma_0 = 2\degree$ für Guss
 
 
-![image](images/Spezifische-Zerspankraft-Einfluss-Gamma.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spezifische-Zerspankraft-Einfluss-Gamma.png)<!--
 style = "width: 50%; margin: 0 5em;"
 -->
 
@@ -687,7 +688,7 @@ style= "margin: 0em 3em;"
 * Im Bereich geringer $\ v_c $  kommt es zu Aufbauschneidenbildung. Dies führt zu einer Veränderung des Spanwinkels $\ \gamma $ und dadurch zu einer Veränderung der Schnittkraft $\ F_c $.
 
 
-![image](images/Spezifische-Zerspankraft-Einfluss-vc.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spezifische-Zerspankraft-Einfluss-vc.png)<!--
 style = "width: 50%; margin: 0 5em;"
 -->
 
@@ -715,7 +716,7 @@ $\ \qquad \qquad K_{v_c} = 1,1 \cdot 1,67^{-0,11} \space = \space 1,0 $
 
 <br/>
 
-![image](images/Korrekturfaktoren-Kvc-und-Kgamma.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Korrekturfaktoren-Kvc-und-Kgamma.png)<!--
 style = "width: 75%; margin: 0 3em;"
 -->
 
@@ -881,8 +882,8 @@ style="margin: 0em 2.5em;"
 x,y-Richtung: $ \bold {8,0 \space \frac{pC}{N} \qquad \qquad} $ z-Richtung: $ \bold{4,0 \space \frac{pC}{N}} $
 
 
-![image](images/Piezoelektrischer-Kraftaufnehmer.png)<!--
-style = "width: 70%; margin: 0em 2.5em "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Piezoelektrischer-Kraftaufnehmer.png)<!--
+style = "width: 75%; margin: 0em 2.5em "
 -->
 
 <!--
@@ -931,8 +932,8 @@ $ kM_x, kM_y, kM_z $ - Korrekturfaktoren von einer durchgef+hrten Momentenkalibr
 
 
 
-![image](images/Dynamometer-Kraft-Momentenmessung.png)<!--
-style = "width: 70%; margin: 0em 2em "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Dynamometer-Kraft-Momentenmessung.png)<!--
+style = "width: 75%; margin: 0em 2em "
 -->
 
 <!--
@@ -995,8 +996,8 @@ z-Richtung: $ \space \space \space 10 \space V \space \hat{=} \space 2500 \space
 
 <br/>
 
-![image](images/Ladungsverstaerker.png)<!--
-style = "width: 50%; margin: 0em 2em "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Ladungsverstaerker.png)<!--
+style = "width: 75%; margin: 0em 2em "
 -->
 
 <!--
@@ -1039,8 +1040,8 @@ Auswertung, grafische Aufbereitung und Speicherung der Daten
 
 
 
-![image](images/Kraftmessung-Endgeraete.png)<!--
-style = "width: 50%; margin: 0em 2em "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Kraftmessung-Endgeraete.png)<!--
+style = "width: 75%; margin: 0em 2em "
 -->
 
 <!--
@@ -1058,7 +1059,7 @@ style="font-size: 14px; margin: 0.25em 2em;"
 
 Drehwerkzeug mit Werkzeughalter und VDI-Aufnahme für CNC-Drehmaschinen
 
-![image](images/Kistler-Messsystem-Aussendrehen.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Kistler-Messsystem-Aussendrehen.png)<!--
 style = "width: 75%; margin: 0em 2em "
 -->
 
@@ -1083,8 +1084,8 @@ und somit das Standvermögen des Wirkpaares Werkstoff-Schneidstoff zu erhöhen?
   * Minimieren der Fertigungskosten (kostenoptimale Fertigung)
   * Minimieren der Fertigungszeit (zeitoptimale Fertigung)
 
-![image](images/Verschleiss-Standzeit_1.png)<!--
-style = "width: 80%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_1.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1092,8 +1093,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 ***Abbildung:*** *Fertigungskosten in Abhängigkeit von $v_c$*
 
-![image](images/Verschleiss-Standzeit_2.png)<!--
-style = "width: 80%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_2.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1113,8 +1114,8 @@ auf und wirken gleichzeitig:
 4. Plastische Verformung, Rissbildung
 5. Adhäsion
 
-![image](images/Verschleissursachen.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleissursachen.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1134,8 +1135,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 1. Nach Art der Entstehung: **Spanarten**
 2. Nach Form und Größe: **Spanformen**
 
-![image](images/Spanformen_und_gepresste_Spaene.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanformen_und_gepresste_Spaene.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1162,8 +1163,8 @@ Folgende unterschiedliche Kriterien üben Einfluss auf die Spanform aus:
 
 Spanungsbedingungen
 
-![image](images/Einfluss_Schnittbedingungen.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Schnittbedingungen.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1180,8 +1181,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 
 Werkstoffeigenschaften
 
-![image](images/Einfluss_Werkstoffeigenschaften.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Werkstoffeigenschaften.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1200,7 +1201,7 @@ Werkzeuggeometrie
 
 Der **Eckenradius** beeinflusst neben der Oberflächengüte und Schneidenstabilität auch den Spanbruch.
 
-![image](images/Einfluss_Eckenradius.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Eckenradius.png)<!--
 style = "width: 50%; margin: 1em 2em; "
 -->
 
@@ -1214,7 +1215,7 @@ style="font-size: 14px; width: 100%; margin: 1em 2em; "
 <br/>
 Eine gezielte Beeinflussung der Fließrichtung und des Spanbruchs ist mittels **Spanleitstufen** möglich.
 
-![image](images/Wirkung_Spanleitstufen.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Wirkung_Spanleitstufen.png)<!--
 style = "width: 75%; margin: 1em 2em; "
 -->
 
@@ -1233,8 +1234,8 @@ Herstellerempfehlungen
 * WZ-Hersteller geben technologische Bereiche (i.d.R. Schaubilder) für die jeweilige Schneidplattengeometrie vor (Erstellung Spanbruchdiagramm)
 * Prinzipiell drei Grundformen: **Schruppen – mittlere Bearbeitung – Schlichten**
 
-![image](images/Arbeitsbereiche_WSPL.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Arbeitsbereiche_WSPL.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
@@ -1255,7 +1256,7 @@ diskontinuierlich. Es treten unterschiedliche Spanbildungsarten auf:
 |Spanbildungsart|Spanentstehung|entsteht vorzugsweise durch|
 |---|---|---|
 |*Fließspanbildung$ ^*$* ![image](images/Fließspanbildung.png)<!--
-style = "width: 75%; "
+style = "width: 100%; "
 --> |<ul type=square><li>kontinuierliche Spanentstehung</li>
 <li>gleitet mit gleichmaßiger Geschwindigkeit ab</li></ul>|<ul type=square><li>gleichmäßiges, feinkörniges Gefüge</li>
 <li>hohe Duktilität</li>
@@ -1264,18 +1265,18 @@ style = "width: 75%; "
 <li>positive Spanwinkel</li>
 <li>geringe Spanungsdicke</li></ul>|
 |*Lamellenspanbildung* ![image](images/Lamellenspanbildung.png)<!--
-style = "width: 75%; "
+style = "width: 100%; "
 -->|<ul type=square><li>gleichmäßige, periodische Spanentstehung</li>
 <li>ähnelt der Fließspanbildung</li>
 <li>Formänderungsschwankungen lassen Scherbänder sichtbar werden</li></ul>|<ul type=square><li>gut verformbare Werkstoffe höherer Festigkeit</li>
 <li>hohe Schnittgeschwindigkeiten</li></ul>|
 |*Scherspanbildung* ![image](images/Scherspanbildung.png)<!--
-style = "width: 75%; "
+style = "width: 100%; "
 -->|<ul type=square><li>diskontinuierliche Spanentstehung</li></ul>|<ul type=square><li>negative Spanwinkel</li>
 <li>größere Spanungsdicken</li>
 <li>sehr geringe oder sehr hohe Schnittgeschwindigkeiten</li></ul>|
 |*Reißspanbildung* ![image](images/Reißspanbildung.png)<!--
-style = "width: 75%; "
+style = "width: 100%; "
 -->|<ul type=square><li>Werkstoffteile werden aus dem Stoffverbund herausgerissen</li>
 <li>bestimmt weitgehend die Oberfläche</li></ul>|<ul type=square><li>Werkstoffe mit geringem Verformungsvermögen</li>
 <li>Bildung vorgebener Gleitsysteme durch starke Inhomogenitäten</li></ul>|
@@ -1285,8 +1286,8 @@ $ ^*$**Aufbauschneidenbildung**
 
 Eine Besonderheit bei der Fließspanbildung ist die Aufbauschneide. Sie ist eine Ansammlung kleinster Werkstoffteilchen des bearbeiteten Materials, die sich durch Pressschweißung und Klebeerscheinungen aufbaut. Dabei lagern sich Werkstoffpartikel auf der Spanfläche und an der Schneidkante ab. Diese Partikel sind so stark verformt, kaltverfestigt und deutlich härter als der Grundwerkstoff, sodass sie die Funktion der Schneide übernehmen können. Wird die Aufbauschneide instabil, gleitet sie ab und wird in die Werkstückrandschicht eingedrückt. Die Aufbauschneidenbildung ist i. d. R. unerwünscht.
 
-![image](images/Aufbauschneidenbildg.png)<!--
-style = "width: 50%; margin: 0em 2em; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Aufbauschneidenbildg.png)<!--
+style = "width: 75%; margin: 0em 2em; "
 -->
 
 <!--
@@ -1350,8 +1351,8 @@ $\quad \bold {Q_W}\quad WSt-Volumen\quad [mm^3 / min]$
 
 <br/>
 
-![image](images/Spanformen.png)<!--
-style = "width: 100%; "
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanformen.png)<!--
+style = "width: 75%; "
 -->
 
 <!--
