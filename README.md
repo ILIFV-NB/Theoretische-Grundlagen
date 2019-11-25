@@ -1089,21 +1089,31 @@ und somit das Standvermögen des Wirkpaares Werkstoff-Schneidstoff zu erhöhen?
   * Minimieren der Fertigungskosten (kostenoptimale Fertigung)
   * Minimieren der Fertigungszeit (zeitoptimale Fertigung)
 
+<br/>
+
+<!--
+style="font-size: 14px; margin: 0.25em 2em;"
+-->
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_1.png)<!--
-style = "width: 60%; "
+style = "width: 50%; "
 -->
 
 <!--
-style="font-size: 14px; width: 100%; margin: 0.25em 0;"
+style="font-size: 14px; width: 100%; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *Fertigungskosten in Abhängigkeit von $v_c$*
 
+<br/>
+
+<!--
+style="font-size: 14px; margin: 0.25em 2em;"
+-->
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_2.png)<!--
-style = "width: 60%; "
+style = "width: 50%; "
 -->
 
 <!--
-style="font-size: 14px; width: 100%; margin: 0.25em 0;"
+style="font-size: 14px; width: 100%; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *zeit- und kostenoptimale Standzeit*
 
@@ -1141,7 +1151,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 2. Nach Form und Größe: **Spanformen**
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanformen_und_gepresste_Spaene.png)<!--
-style = "width: 60%; "
+style = "width: 50%; "
 -->
 
 <!--
@@ -1221,7 +1231,7 @@ style="font-size: 14px; width: 100%; margin: 1em 2em; "
 Eine gezielte Beeinflussung der Fließrichtung und des Spanbruchs ist mittels **Spanleitstufen** möglich.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Wirkung_Spanleitstufen.png)<!--
-style = "width: 60%; margin: 1em 2em; "
+style = "width: 50%; margin: 1em 2em; "
 -->
 
 <!--
@@ -1239,12 +1249,17 @@ Herstellerempfehlungen
 * WZ-Hersteller geben technologische Bereiche (i.d.R. Schaubilder) für die jeweilige Schneidplattengeometrie vor (Erstellung Spanbruchdiagramm)
 * Prinzipiell drei Grundformen: **Schruppen – mittlere Bearbeitung – Schlichten**
 
+<br/>
+
+<!--
+style="font-size: 14px; margin: 0.25em 2em;"
+-->
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Arbeitsbereiche_WSPL.png)<!--
 style = "width: 50%; "
 -->
 
 <!--
-style="font-size: 14px; width: 100%; margin: 0.25em 1;"
+style="font-size: 14px; width: 100%; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *Arbeitsbereiche für verschiedene WSPL-Geometrien beim Drehen*
 
