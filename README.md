@@ -73,7 +73,7 @@ Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:
 
 ### Der Zerspanprozess als System
 
-![image](images/Der_Zerspanprozess_als_System-FT.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Der_Zerspanprozess_als_System-FT.png)<!--
 style = "width: 100%; "
 -->
 
