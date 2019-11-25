@@ -103,14 +103,14 @@ _**Tabelle:** Beispiel einer ganzheitlichen Systembetrachtung **WSWW+H** am Beis
 style="font-size: 14px; "
 -->
 | Maschine     | Werkzeug    | Spannmittel | Werkstück | Hilfsstoffe |
-| :----------- | :---------- | :---------- | :-------- | :---------- |
+| :-----------: | :----------: | :----------: | :--------: | :----------: |
 | CNC Drehmaschine, Schrägbett | Polygon- Werkzeugaufnahme | Werkstückspannung       | Getriebewelle       | Kühlschmierstoff |
 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/CTX-alpha-300.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 --> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Capto-Werkzeug-Aufnahme.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 --> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spannsystem-Drehen.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 --> |      |      |
 | maximale Drehzahl: 6000 U/min | Wendeschneidplatte: CNMG 120408 PM | Werkstück: Spannung zwischen Spitzen | Werkstoff: 42CrMo4 | Emulsion |
 | Antriebsleistung: 15 kW | Schneidstoff: HC P20 |      | Rohteil: geschmiedet | Minimalmengen- kühlschmierung: 20 ml/h|
@@ -135,15 +135,15 @@ _**Tabelle:** Denken in Prozessketten (Quellen: dedinski.de, wikimedia)_
 style="font-size: 14px; "
 -->
 |Ausgangsprozess|Hilfsoperationen|Endbearbeitung|
-|:---|:---|:---|
+|:---:|:---:|:---:|
 |z.B.: Gießen, Schmieden, Halbzeugherstellung|z.B.: Zerspanen (Drehen, Bohren, Fräsen, Schleifen), Fügen (Reibschweißen), Beladen, Messen ...|z.B.: Präzisionsdrehen und -schleifen, Honen (Finishbearbeitung), Festwalzen/Glattwalzen, Beschichten …|
 |Rohteil|   |Fertigteil|
 |![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Rohteil_Welle.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Pfeil_Prozesskette.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Fertigteil_Kurbelwelle.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->|
 
 <br/>
@@ -286,7 +286,7 @@ style="font-size: 14px; width: 100%; "
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Dreibackenfutter.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -303,7 +303,7 @@ style="font-size: 14px; width: 100%; "
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/handbetaetigtes-Dreibackenspannfutter.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -404,7 +404,9 @@ style = "width: 75%; "
 style = "width: 75%; "
 --> |
 |---:|:---|
-| Vorschub <br/> theoretische Rauheit <br/> Schneideckenradius |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}}$ $ \quad$ [$\mu m $] <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
+| Vorschub|$ \bold f \ \qquad\quad [mm/U]$ |
+| theoretische Rauheit | $ \bold {R_{theor}}$ $ \quad$ [$\mu m $] |
+|Schneideckenradius | $ \bold {r_\varepsilon} \qquad\quad [mm]$ |
 | | |
 |Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
 |![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Pyth-2.png)<!--
@@ -998,7 +1000,7 @@ z-Richtung: $ \space \space \space 10 \space V \space \hat{=} \space 2500 \space
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Ladungsverstaerker.png)<!--
-style = "width: 75%; margin: 0em 2em "
+style = "width: 60%; margin: 0em 2em "
 -->
 
 <!--
@@ -1044,7 +1046,7 @@ Auswertung, grafische Aufbereitung und Speicherung der Daten
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Kraftmessung-Endgeraete.png)<!--
-style = "width: 75%; margin: 0em 2em "
+style = "width: 60%; margin: 0em 2em "
 -->
 
 <!--
@@ -1063,7 +1065,7 @@ style="font-size: 14px; margin: 0.25em 2em;"
 Drehwerkzeug mit Werkzeughalter und VDI-Aufnahme für CNC-Drehmaschinen
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Kistler-Messsystem-Aussendrehen.png)<!--
-style = "width: 75%; margin: 0em 2em "
+style = "width: 60%; margin: 0em 2em "
 -->
 
 <!--
@@ -1088,7 +1090,7 @@ und somit das Standvermögen des Wirkpaares Werkstoff-Schneidstoff zu erhöhen?
   * Minimieren der Fertigungszeit (zeitoptimale Fertigung)
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_1.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1097,7 +1099,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *Fertigungskosten in Abhängigkeit von $v_c$*
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleiss-Standzeit_2.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1118,7 +1120,7 @@ auf und wirken gleichzeitig:
 5. Adhäsion
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Verschleissursachen.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1139,7 +1141,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 2. Nach Form und Größe: **Spanformen**
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanformen_und_gepresste_Spaene.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1167,7 +1169,7 @@ Folgende unterschiedliche Kriterien üben Einfluss auf die Spanform aus:
 Spanungsbedingungen
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Schnittbedingungen.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1175,7 +1177,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 ***Abbildung:*** *Einfluss der Schnittbedingungen auf die Spanform, (Quelle: Denkena, nach DEG93)*
 
-(Erläuterung zu den Spanformklassen siehe *Theorie --> [Spanformen](#19), Abbildung: Spanformen*)
+(Erläuterung zu den Spanformklassen siehe * --> [Spanformen](#19), Abbildung: Spanformen*)
 
 **************************
 
@@ -1185,7 +1187,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 Werkstoffeigenschaften
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Werkstoffeigenschaften.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -1193,7 +1195,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 ***Abbildung:*** *Einfluss der Werkstoffeigenschaften auf die Spanform (Kohlenstoffstahl), (Quelle: Denkena)*
 
-(Erläuterung zu den Spanformklassen siehe *Theorie --> Der Span --> [Spanformen](#19), Abbildung: Spanformen*)
+(Erläuterung zu den Spanformklassen siehe * --> [Spanformen](#19), Abbildung: Spanformen*)
 
 **************************
 
@@ -1219,7 +1221,7 @@ style="font-size: 14px; width: 100%; margin: 1em 2em; "
 Eine gezielte Beeinflussung der Fließrichtung und des Spanbruchs ist mittels **Spanleitstufen** möglich.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Wirkung_Spanleitstufen.png)<!--
-style = "width: 75%; margin: 1em 2em; "
+style = "width: 60%; margin: 1em 2em; "
 -->
 
 <!--
@@ -1256,6 +1258,10 @@ Je nach Verformungsverhalten des Werkstoffes erfolgt das Abfließen des Spans ko
 diskontinuierlich. Es treten unterschiedliche Spanbildungsarten auf:
 
 <br/>
+
+<!--
+style="font-size: 14px; width: 75%; "
+-->
 |Spanbildungsart|Spanentstehung|entsteht vorzugsweise durch|
 |---|---|---|
 |*Fließspanbildung$ ^*$* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Fließspanbildung.png)<!--
