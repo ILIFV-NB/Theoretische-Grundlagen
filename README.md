@@ -191,7 +191,7 @@ style="font-size: 14px; width: 100%; "
 ***Tabelle:*** *Einflussgrößen am Teilsystem „Werkzeugmaschine“*
 
 <!--
-style="font-size: 14px; "
+style="font-size: 14px; width: 75%; "
 -->
 |Technisch|Arbeits- und Wiederholgenauigkeit|Sozial-ökologisch-ökonomisch|
 |:---|:---|:---|
@@ -251,7 +251,7 @@ Bei der Vielzahl von Drehmaschinen die auf dem Markt angeboten werden, kommt es 
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Hainbuch-Spannmittel-Beispiele.png)<!--
-style = "width: 75%; "
+style = "width: 40%; "
 -->
 
 <!--
@@ -264,7 +264,7 @@ style="font-size: 14px; width: 100%; "
 **Spannmittel zur Werkstückspannung**
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spannmittel-Werkstueckspannung.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -326,7 +326,7 @@ style="font-size: 14px; width: 100%; "
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Planscheibe.png)<!--
-style = "width: 75%; "
+style = "width: 50%; "
 -->
 
 <!--
@@ -399,18 +399,18 @@ style="font-size: 18px; "
 ~~Herleitung der Formel~~
 
 |![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-WSt_WSP.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 --> | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Zeichng.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 --> |
 |---:|:---|
-| Vorschub <br/> theoretische Rauheit <br/> Schneideckenradius |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}} \ \quad [µm]$ <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
+| Vorschub <br/> theoretische Rauheit <br/> Schneideckenradius |$ \bold f \ \qquad\quad [mm/U]$ <br/> $ \bold {R_{theor}}$ $ \quad$ [$\mu m $] <br/> $ \bold {r_\varepsilon} \qquad\quad [mm]$ <br/> |
 | | |
 |Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
 |![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Pyth-2.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->|![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Theor_Rauh-Formel.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->|
 
 <!--
@@ -882,6 +882,7 @@ style="margin: 0em 2.5em;"
 x,y-Richtung: $ \bold {8,0 \space \frac{pC}{N} \qquad \qquad} $ z-Richtung: $ \bold{4,0 \space \frac{pC}{N}} $
 
 
+<br/>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Piezoelektrischer-Kraftaufnehmer.png)<!--
 style = "width: 75%; margin: 0em 2.5em "
 -->
@@ -1019,6 +1020,7 @@ style="margin: 0em 3em;"
 -->
 inklusive grafische Aufbereitung, Visualisierung (In-Prozess, Post-Prozess)
 
+<br/>
 * Werkzeugmaschine, Maschinensteuerung
 
 <!--
@@ -1031,6 +1033,7 @@ style="margin: 0em 3em;"
 -->
 Mikrocontroller: Verarbeitung der Signale für eine Prozessregelung
 
+<br/>
 * Mikrocontroller und mobiles Endgerät
 
 <!--
@@ -1038,7 +1041,7 @@ style="margin: 0em 3em;"
 -->
 Auswertung, grafische Aufbereitung und Speicherung der Daten
 
-
+<br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Kraftmessung-Endgeraete.png)<!--
 style = "width: 75%; margin: 0em 2em "
@@ -1235,7 +1238,7 @@ Herstellerempfehlungen
 * Prinzipiell drei Grundformen: **Schruppen – mittlere Bearbeitung – Schlichten**
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Arbeitsbereiche_WSPL.png)<!--
-style = "width: 75%; "
+style = "width: 50%; "
 -->
 
 <!--
@@ -1255,7 +1258,7 @@ diskontinuierlich. Es treten unterschiedliche Spanbildungsarten auf:
 <br/>
 |Spanbildungsart|Spanentstehung|entsteht vorzugsweise durch|
 |---|---|---|
-|*Fließspanbildung$ ^*$* ![image](images/Fließspanbildung.png)<!--
+|*Fließspanbildung$ ^*$* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Fließspanbildung.png)<!--
 style = "width: 100%; "
 --> |<ul type=square><li>kontinuierliche Spanentstehung</li>
 <li>gleitet mit gleichmaßiger Geschwindigkeit ab</li></ul>|<ul type=square><li>gleichmäßiges, feinkörniges Gefüge</li>
@@ -1264,18 +1267,18 @@ style = "width: 100%; "
 <li>geringe Reibung auf der Spanfläche</li>
 <li>positive Spanwinkel</li>
 <li>geringe Spanungsdicke</li></ul>|
-|*Lamellenspanbildung* ![image](images/Lamellenspanbildung.png)<!--
+|*Lamellenspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Lamellenspanbildung.png)<!--
 style = "width: 100%; "
 -->|<ul type=square><li>gleichmäßige, periodische Spanentstehung</li>
 <li>ähnelt der Fließspanbildung</li>
 <li>Formänderungsschwankungen lassen Scherbänder sichtbar werden</li></ul>|<ul type=square><li>gut verformbare Werkstoffe höherer Festigkeit</li>
 <li>hohe Schnittgeschwindigkeiten</li></ul>|
-|*Scherspanbildung* ![image](images/Scherspanbildung.png)<!--
+|*Scherspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Scherspanbildung.png)<!--
 style = "width: 100%; "
 -->|<ul type=square><li>diskontinuierliche Spanentstehung</li></ul>|<ul type=square><li>negative Spanwinkel</li>
 <li>größere Spanungsdicken</li>
 <li>sehr geringe oder sehr hohe Schnittgeschwindigkeiten</li></ul>|
-|*Reißspanbildung* ![image](images/Reißspanbildung.png)<!--
+|*Reißspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Reißspanbildung.png)<!--
 style = "width: 100%; "
 -->|<ul type=square><li>Werkstoffteile werden aus dem Stoffverbund herausgerissen</li>
 <li>bestimmt weitgehend die Oberfläche</li></ul>|<ul type=square><li>Werkstoffe mit geringem Verformungsvermögen</li>
@@ -1287,7 +1290,7 @@ $ ^*$**Aufbauschneidenbildung**
 Eine Besonderheit bei der Fließspanbildung ist die Aufbauschneide. Sie ist eine Ansammlung kleinster Werkstoffteilchen des bearbeiteten Materials, die sich durch Pressschweißung und Klebeerscheinungen aufbaut. Dabei lagern sich Werkstoffpartikel auf der Spanfläche und an der Schneidkante ab. Diese Partikel sind so stark verformt, kaltverfestigt und deutlich härter als der Grundwerkstoff, sodass sie die Funktion der Schneide übernehmen können. Wird die Aufbauschneide instabil, gleitet sie ab und wird in die Werkstückrandschicht eingedrückt. Die Aufbauschneidenbildung ist i. d. R. unerwünscht.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Aufbauschneidenbildg.png)<!--
-style = "width: 75%; margin: 0em 2em; "
+style = "width: 60%; margin: 0em 2em; "
 -->
 
 <!--
@@ -1352,7 +1355,7 @@ $\quad \bold {Q_W}\quad WSt-Volumen\quad [mm^3 / min]$
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanformen.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
