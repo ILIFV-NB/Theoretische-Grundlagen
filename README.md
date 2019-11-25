@@ -405,7 +405,7 @@ style = "width: 75%; "
 --> |
 |---:|:---|
 | Vorschub|$ \bold f \ \qquad\quad [mm/U]$ |
-| theoretische Rauheit | $ \bold {R_{theor}}$ $ \quad$ [$\mu m $] |
+| theoretische Rauheit | $ \bold {R_{theor}} \ \quad [\mu m ]$ |
 |Schneideckenradius | $ \bold {r_\varepsilon} \qquad\quad [mm]$ |
 | | |
 |Herleitung der Formel für den Schneideckenradius|Umstellung der Formel nach der theoretischen Rauheit|
