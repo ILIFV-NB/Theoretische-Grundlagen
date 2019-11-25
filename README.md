@@ -434,7 +434,7 @@ Die **Zerspankräfte** sind von Bedeutung für:
 * die Beurteilung der Zerspanbarkeit von Werkstoffen
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Zerspankraftkomponenten.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -494,7 +494,7 @@ $\ \qquad \quad h $ : Spanungsdicke in mm
 $\implies\boxed{F_i = k_i \cdot a_p \cdot f = k_i \cdot b \cdot h} $
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Spanungsdicke-Spanungsbreite.png)<!--
-style = "width: 75%; margin: 1em 5em;"
+style = "width: 60%; margin: 1em 5em;"
 -->
 
 <!--
@@ -936,7 +936,7 @@ $ kM_x, kM_y, kM_z $ - Korrekturfaktoren von einer durchgef+hrten Momentenkalibr
 
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Dynamometer-Kraft-Momentenmessung.png)<!--
-style = "width: 75%; margin: 0em 2em "
+style = "width: 60%; margin: 0em 2em "
 -->
 
 <!--
@@ -1217,7 +1217,7 @@ Werkzeuggeometrie
 Der **Eckenradius** beeinflusst neben der Oberflächengüte und Schneidenstabilität auch den Spanbruch.
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Einfluss_Eckenradius.png)<!--
-style = "width: 50%; margin: 1em 2em; "
+style = "width: 40%; margin: 1em 2em; "
 -->
 
 <!--
