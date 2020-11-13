@@ -4,11 +4,13 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
 
 narrator: DE FEMALE
+
+comment:  Theoretische Grundlagen zum Praktikum "Drehen"
 
 -->
 
@@ -63,11 +65,11 @@ Es gibt fünf wesentliche Kriterien zur Bewertung des Zerspanprozesses:
 
 ...
 
-*6. [Werkzeugaufnahmen](#9)
-7. [Werkzeuge und Wendeschneidplatten](#10)
-8. [Schnittwerte](#11)
-9. [Schneidstoffe](#12)
-10. [Kühlschmierung](#13)
+6. [Werkzeugaufnahmen]
+7. [Werkzeuge und Wendeschneidplatten]
+8. [Schnittwerte]
+9. [Schneidstoffe]
+10. [Kühlschmierung]
 
 
 
@@ -85,7 +87,6 @@ _**Abbildung:** Der Zerspanprozess als System_
 
 ### System WSWW+H
 
-**WSWW+H**
 * W: Werkzeugmaschine
 * S: Spannmittel
 * W: Werkzeug
@@ -191,7 +192,7 @@ style="font-size: 14px; width: 100%; "
 ***Tabelle:*** *Einflussgrößen am Teilsystem „Werkzeugmaschine“*
 
 <!--
-style="font-size: 14px; width: 75%; "
+style="font-size: 14px; "
 -->
 |Technisch|Arbeits- und Wiederholgenauigkeit|Sozial-ökologisch-ökonomisch|
 |:---|:---|:---|
@@ -238,7 +239,7 @@ Bei der Vielzahl von Drehmaschinen die auf dem Markt angeboten werden, kommt es 
 
 
 
-### Spannmittel Werkstückspannung
+### Spannmittel Werkstückspannung ...
 
 {{0-1}}
 ***
@@ -251,7 +252,7 @@ Bei der Vielzahl von Drehmaschinen die auf dem Markt angeboten werden, kommt es 
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Hainbuch-Spannmittel-Beispiele.png)<!--
-style = "width: 40%; "
+style = "width: 60%; "
 -->
 
 <!--
@@ -333,16 +334,7 @@ style = "width: 50%; "
 style="font-size: 14px; width: 100%; "
 -->
 ***Abbildung:*** *Werkstückspannung auf Planscheiben (Quelle: infometall.de)*
-
 ***
-
-
-*### Werkzeugaufnahmen
-*### Werkzeuge Wendeschneidplatten
-*### Schnittwerte
-*### Schneidstoffe
-*### Kühlschmierung
-
 
 
 ## **Oberflächenmodell**
@@ -378,7 +370,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *Zusammenhang Vorschub, Eckenradius und Rautiefe (Quelle: Europa Lehrmittel Zerspantechnik)*
 
 
-###Berechnung der theoretischen Rauheit
+### Berechnung der theoretischen Rauheit
 
 <!--
 style="font-size: 18px; "
@@ -421,7 +413,7 @@ style="font-size: 14px; width: 660px; margin: 0.25em 0;"
 ***Abbildung:*** *Herleitung der Formel zur Berechnung der theoretischen Rauheit*
 
 
-##**Zerspankraftmodell und Zerspankraftmessung**
+## **Zerspankraftmodell und Zerspankraftmessung**
 
 Die **Zerspankräfte** sind von Bedeutung für:
 
@@ -443,7 +435,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 ***Abbildung:*** *Zerspankraftkomponenten*
 
 
-###Allgemeiner Lösungsansatz des Zerspankraft-Modells
+### Allgemeiner Lösungsansatz des Zerspankraft-Modells
 
 {{0-1}}
 ***
@@ -844,7 +836,7 @@ $\boxed{\bold {F_c:F_f:F_p=5:2:1}}$
 ***
 
 
-###Messtechnische Erfassung der Zerspankraftkomponenten
+### Messtechnische Erfassung der Zerspankraftkomponenten
 
 {{0-1}}
 ***
@@ -1075,7 +1067,7 @@ style="font-size: 14px; margin: 0.25em 2em;"
 
 ***
 
-##**Verschleiß-Standzeit-Modell**
+## **Verschleiß-Standzeit-Modell**
 
 Mithilfe des **Verschleiß-Standzeit-Modells** ist es möglich, das Verschleißverhalten im Vorfeld zu beurteilen
 und somit das Standvermögen des Wirkpaares Werkstoff-Schneidstoff zu erhöhen?
@@ -1117,7 +1109,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 2em;"
 -->
 ***Abbildung:*** *zeit- und kostenoptimale Standzeit*
 
-###Werkzeugverschleiß
+### Werkzeugverschleiß
 
 Der Werkzeug-Verschleiß hängt wesentlich von den ~~Spanungsparametern~~, der ~~Paarung Werkstoff/Schneidstoff~~
 sowie dem ~~zeitlichen Verlauf~~ ab. Fünf hauptsächliche **Verschleißmechanismen** treten beim Spanen gemeinsam
@@ -1139,7 +1131,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *Verschleißursachen*
 
 
-##**Spanformbeeinflussung**
+## **Spanformbeeinflussung**
 
 **Der Span**
 
@@ -1160,7 +1152,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 ***Abbildung:*** *Verschiedene Spanformen und ein Block aus gepressten Spänen*
 
 
-###Einflusskriterien
+### Einflusskriterien
 
                                   {{0-1}}
 **************************
@@ -1265,7 +1257,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 2em;"
 
 **************************
 
-###Spanarten
+### Spanarten
 
 **Die ~~Spanart~~ ist die Spangestalt, die sich in Abhängigkeit von der Spanbildung ergibt.**
 
@@ -1275,7 +1267,7 @@ diskontinuierlich. Es treten unterschiedliche Spanbildungsarten auf:
 <br/>
 
 <!--
-style="font-size: 14px; width: 75%; "
+style="font-size: 14px; "
 -->
 |Spanbildungsart|Spanentstehung|entsteht vorzugsweise durch|
 |---|---|---|
@@ -1323,7 +1315,7 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
 
 <!--
-style = "font-size: 14px; width: 100%; margin: 1em 2em; "
+style = "font-size: 14px; margin: 1em 2em; "
 -->
 <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -1343,7 +1335,7 @@ style = "font-size: 14px; width: 100%; margin: 1em 2em; "
 * adhäsiver WZ-Verschleiß
 * Einlagern von harten, kaltverfestigten Partikeln in entstehende Oberfläche $\implies$ schlechte Werkstückoberflächen
 
-###Spanformen
+### Spanformen
 
 **Die ~~Spanform~~ ist die Beschreibung der Späne nach Form und Größe und ist das Ergebnis der Spanbildung.**
 
@@ -1385,7 +1377,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 ***Abbildung:*** *Spanformen (Denkena)*
 
 
-#Literatur
+# Literatur
 
 **Denkena, B. & Tönshoff, H. K.**: Spanen, Grundlagen, VDI-Buch, Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2011
 
