@@ -1270,9 +1270,9 @@ diskontinuierlich. Es treten unterschiedliche Spanbildungsarten auf:
 style="font-size: 14px; "
 -->
 |Spanbildungsart|Spanentstehung|entsteht vorzugsweise durch|
-|---|---|---|
+|:---:|---|---|
 |*Fließspanbildung$ ^*$* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Fließspanbildung.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 --> |<ul type=square><li>kontinuierliche Spanentstehung</li>
 <li>gleitet mit gleichmaßiger Geschwindigkeit ab</li></ul>|<ul type=square><li>gleichmäßiges, feinkörniges Gefüge</li>
 <li>hohe Duktilität</li>
@@ -1281,18 +1281,18 @@ style = "width: 100%; "
 <li>positive Spanwinkel</li>
 <li>geringe Spanungsdicke</li></ul>|
 |*Lamellenspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Lamellenspanbildung.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 -->|<ul type=square><li>gleichmäßige, periodische Spanentstehung</li>
 <li>ähnelt der Fließspanbildung</li>
 <li>Formänderungsschwankungen lassen Scherbänder sichtbar werden</li></ul>|<ul type=square><li>gut verformbare Werkstoffe höherer Festigkeit</li>
 <li>hohe Schnittgeschwindigkeiten</li></ul>|
 |*Scherspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Scherspanbildung.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 -->|<ul type=square><li>diskontinuierliche Spanentstehung</li></ul>|<ul type=square><li>negative Spanwinkel</li>
 <li>größere Spanungsdicken</li>
 <li>sehr geringe oder sehr hohe Schnittgeschwindigkeiten</li></ul>|
 |*Reißspanbildung* ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/Reißspanbildung.png)<!--
-style = "width: 100%; "
+style = "width: 80%; "
 -->|<ul type=square><li>Werkstoffteile werden aus dem Stoffverbund herausgerissen</li>
 <li>bestimmt weitgehend die Oberfläche</li></ul>|<ul type=square><li>Werkstoffe mit geringem Verformungsvermögen</li>
 <li>Bildung vorgebener Gleitsysteme durch starke Inhomogenitäten</li></ul>|
@@ -1311,6 +1311,7 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 -->
 ***Abbildung:*** *Aufbauschneidenbildung*
 
+<br/>
 <br/>
 Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
 
