@@ -957,7 +957,7 @@ style="font-size: 14px; margin: 0.25em 2em;"
 <!--
 style="margin: 0em 1em;"
 -->
-*Beispiel für eine Weiterverarbeitung eines analogen Spannungssignals:*
+*Beispiel für eine Weiterverarbeitung eines analogen Spanungssignals:*
 
 * Messbereich des Ladungsverstärkes z.B.: ± 20 pC … ± 1.000.000 pC
 
