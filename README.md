@@ -150,10 +150,12 @@ style = "width: 75%; "
 <br/>
 
 **Ziele bei der Prozesskettengestaltung**
+
 *  möglichst kurze Prozesskette vom Rohteil zum Fertigteil in wenigen Arbeitsschritten
 * ständige Optimierung und Weiterentwicklung des Herstellungsablaufes für eine wettbewerbsfähige Produktion
 
 *Voraussetzungen:*
+
 * innovative Fertigungsverfahren bilden Basis für eine moderne (qualitätsgerecht, ökonomisch, ökologisch etc.) Produktherstellung
 * signifikante Produktverbesserung nur unter Einbeziehung der gesamten Prozesskette
 * zunehmende Bedeutung der Flexibilität zukünftiger Fertigungssysteme
@@ -316,6 +318,7 @@ style="font-size: 14px; width: 100%; "
 
 {{2-3}}
 ***
+
 **Spannen auf Planscheiben**
 
 * zur Aufnahme von meist nichtrotationssymmetrischen Teilen
@@ -334,6 +337,7 @@ style = "width: 50%; "
 style="font-size: 14px; width: 100%; "
 -->
 ***Abbildung:*** *Werkstückspannung auf Planscheiben (Quelle: infometall.de)*
+
 ***
 
 
