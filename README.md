@@ -537,7 +537,7 @@ Die spezifische Schnittkraft $\ k_{c1.1} $ gibt die auf b = 1 mm und h = 1 mm be
 <!--
  style = "margin: 1em 5em;"
 -->
-| ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 90%;" --> |  | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-Beispiel.png)<!--
+| ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-log-Gleichung.png)<!-- style = "width: 90%;" --> | $\ y = m \cdot x + n $ <br/> <br/> $\ log \space k_i = -m_i \cdot log \space h \space + \space log \space k_{i.1.} $ <br/> <br/> entlogaritmiert: <br/> <br/> $\ \qquad k_i = k_{i1.1} \cdot h^{-m_i} $ <br/> <br/> $\ \qquad k_c = k_{c1.1} \cdot h^{-m_c} $ <br/> <br/> ($\ k_{c1.1} $ für spezifische Schnittkraft)| | ![image](https://raw.githubusercontent.com/ILIFV-NB/Theoretische-Grundlagen/master/images/spez-Schnittkraft-Beispiel.png)<!--
 style = "width: 90%;" --> <br/><br/> ***Abbildung:*** *Beispiel einer empirisch ermittelten spezifischen Schnittkraft $\ k_c $ in Abhängigkeit von der Spanungsdicke h* |
 
 
